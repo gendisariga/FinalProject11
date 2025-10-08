@@ -11,6 +11,7 @@ public class Latihan1 {
         kelas=sc.nextLine();
         System.out.println("nama saya adalah " + nama);
         System.out.println("kelas saya"+kelas);
+        System.out.println("kucing");
 
     
      }
