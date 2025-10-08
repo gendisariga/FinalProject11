@@ -12,6 +12,7 @@ public class Latihan1 {
         System.out.println("nama saya adalah " + nama);
         System.out.println("kelas saya"+kelas);
         System.out.println("kucing");
+        System.out.println("ini kucing zayaa");
 
     
      }
